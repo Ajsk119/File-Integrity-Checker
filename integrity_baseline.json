@@ -1,0 +1,25 @@
+{
+  "created_at": "2026-05-29T16:57:10.169129",
+  "target_path": "C:\\Users\\ambri\\Saved Games",
+  "algorithm": "sha256",
+  "files": {
+    "C:\\Users\\ambri\\Saved Games\\desktop.ini": {
+      "hash": "e6fdf8ed07b19b2a3b8eff05de7bc71152c85b377b9226f126dc54b58b930311",
+      "metadata": {
+        "size": 282,
+        "mtime": 1764956868.7239375,
+        "ctime": 1739095466.3832479,
+        "mode": "0o100666"
+      }
+    },
+    "C:\\Users\\ambri\\Saved Games\\test.txt": {
+      "hash": "21ebf879378df169fe941f77be5f839e72dd72b211eec68cf701abbc8cc5c29c",
+      "metadata": {
+        "size": 21,
+        "mtime": 1780053020.1854262,
+        "ctime": 1780052894.9813583,
+        "mode": "0o100666"
+      }
+    }
+  }
+}

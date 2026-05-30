@@ -1,0 +1,22 @@
+=================================================================
+  FILE INTEGRITY CHECKER — VERIFICATION REPORT
+=================================================================
+  Timestamp     : 2026-05-29T16:59:13.482372
+  Target        : C:\Users\ambri\Saved Games
+  Algorithm     : SHA256
+  Files Checked : 2
+-----------------------------------------------------------------
+  ✅  Unchanged  : 1
+  ⚠️   Modified   : 0
+  🔴  Missing    : 1
+  ℹ️   New Files  : 1
+-----------------------------------------------------------------
+
+  [MISSING FILES — POSSIBLE DELETION / MOVE]
+  🔴  C:\Users\ambri\Saved Games\test.txt
+
+  [NEW / UNREGISTERED FILES]
+  ℹ️   C:\Users\ambri\Saved Games\Test1.txt
+-----------------------------------------------------------------
+  Overall Status : COMPROMISED 🔴
+=================================================================
